@@ -11,7 +11,7 @@ This website is built with customised responsive designs.
 - Responsive techniques like: media-queries
 
 ## Deployment
-https://bbhotel.netlify.app/index.html
+https://bbhotel.netlify.app/
 
 ## Acknoledgements
 
