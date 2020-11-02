@@ -10,6 +10,9 @@ This website is built with customised responsive designs.
 - CSS3
 - Responsive techniques like: media-queries
 
+## Deployment
+https://bbhotel.netlify.app/index.html
+
 ## Acknoledgements
 
 - [pexels.com](https://pexels.com/)
